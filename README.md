@@ -1,2 +1,16 @@
-# Automacao-Processo-de-Importacao-de-Dados
- Realização da extração de dados de uma tabela do banco de dados SQL SERVER. Certamente, os dados são separados por dois tipos de fornecedores e exportados em arquivos CSV distintos para diretórios específicos. Ao final do  processo é registrado em uma tabela de controle.
+# Automacao Processo de Importacao de Dados
+
+## Objetivo 🎯
+
+Automatizar a extração e exportação de dados da tabela de um banco de dados SQL Server, segmentando os dados por fornecedor e salvando as informações em arquivos e diretórios específicos.
+
+## Tecnologias e Ferramentas 🛠
+
+* Linguagem: Python
+* Bibliotecas:
+    * pandas (manipulação de dados)
+    * pyodbc (conexão com SQL Server)
+    * os, datetime, warnings
+* Banco de Dados: SQL Server
+
+## System Design
