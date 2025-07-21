@@ -13,4 +13,6 @@ Automatizar a extração e exportação de dados da tabela de um banco de dados 
     * os, datetime, warnings
 * Banco de Dados: SQL Server
 
-## System Design
+## System Design ✍🏼
+
+[Pipeline].(Pipeline(5).png)
